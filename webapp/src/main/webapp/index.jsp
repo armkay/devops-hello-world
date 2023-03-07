@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Version of Job has changed</h1>
+	<h1>Updated from POLL and Docker Hub</h1>
     <p>Please fill in this form to create an account.</p>
+
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
